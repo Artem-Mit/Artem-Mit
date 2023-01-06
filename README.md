@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D1%80%D1%82%D0%B5%D0%BC+%D0%B8+%D1%8D%D1%82%D0%BE+%D0%BC%D0%BE%D0%B9+Github" alt="Typing SVG" /></a>
 
 <!--
 **Artem-Mit/Artem-Mit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
