@@ -9,6 +9,12 @@
 <br>В данный момент живу в Санкт-Петербурге и нахожусь в поиске работы.
 Тут <a href="https://spb.hh.ru/resume/475f0a35ff0b4c07120039ed1f6b596162587a" target="_blank">ссылка на мое резюме</a>.
 
+Мои главные цели на данный момент:
+* Попробовать себя в работе с крупным проектом
+* Работа с опытными наставниками
+* Улучшение качества написанного мной кода
+* Расширение моего стека
+
 ## Мой стек технологий:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
