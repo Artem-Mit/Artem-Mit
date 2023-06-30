@@ -1,18 +1,9 @@
-# Привет, меня зовут Артем и это мой Github
-
-В моем репозитории вы можете увидеть все мои проекты. <br>У каждого проекта есть ReadMe, в них я описал как реализованы проекты и чему я научился в процессе их создания.
-
 ## Обо мне:
 
 Я фронтенд разработчик<br>
 В данный момент живу в Санкт-Петербурге и нахожусь в поиске работы.<br>
 Тут <a href="https://spb.hh.ru/resume/475f0a35ff0b4c07120039ed1f6b596162587a" target="_blank">ссылка на мое резюме</a>.
 
-Мои главные цели на данный момент:
-* Работа с крупным проектом
-* Взаимодействие опытными коллегами
-* Улучшение качества написанного мной кода
-* Расширение моего стека
 
 ## Мой стек технологий:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
@@ -27,8 +18,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com)
-
-Технологии постоянно пополняются. В данный момент изучаю TypeScript и SCSS/Sass.
 
 ## Статистика:
 Для того, чтобы не забыть JS и в целом размять мозги, решаю задачи на CodeWars
