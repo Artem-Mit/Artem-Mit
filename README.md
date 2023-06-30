@@ -1,10 +1,3 @@
-## Обо мне:
-
-Я фронтенд разработчик<br>
-В данный момент живу в Санкт-Петербурге и нахожусь в поиске работы.<br>
-Тут <a href="https://spb.hh.ru/resume/475f0a35ff0b4c07120039ed1f6b596162587a" target="_blank">ссылка на мое резюме</a>.
-
-
 ## Мой стек технологий:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -18,11 +11,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com)
-
-## Статистика:
-Для того, чтобы не забыть JS и в целом размять мозги, решаю задачи на CodeWars
-
-<br>[![Codewars Badge](https://www.codewars.com/users/Artem-Mit/badges/small)](https://www.codewars.com/users/Artem-Mit)
 
 ## Связь со мной:
 
